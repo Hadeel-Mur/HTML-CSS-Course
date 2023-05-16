@@ -1,0 +1,54 @@
+
+
+  p {
+    font-family: roboto;
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+.video-title{
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 24px;
+  width: 280px;
+  margin-bottom: 5px;
+}
+
+.video-state{
+  color:rgb(96, 96, 96);
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+  
+ .video-description{
+  color:rgb(96, 96, 96);
+  font-size: 14px;
+  width: 280px;
+  line-height: 22px;
+  margin-bottom: 100px;
+}
+
+ .shop-text{
+   font-size: 14px;
+   color: white;
+   background-color: rgb(227, 65, 64);
+   text-align: center;
+   padding-top: 18px;
+   padding-bottom: 18px;
+ } 
+ .span-shop{
+   cursor: pointer;
+ }
+ .span-shop:hover{
+   text-decoration: underline;
+ }
+ .shop-text-1{
+   margin-top: 20px;
+ }
+
+ .span-2{
+   color: red;
+ }
+ .span-2:hover{
+   text-decoration: underline;
+ }

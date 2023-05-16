@@ -1,0 +1,22 @@
+p{
+  font-family: Arial;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 18px;
+}
+.title{
+  font-size: 30px;
+  font-weight: bold;
+}
+.contant{
+  font-size: 18px;
+  font-weight: bold;
+}
+.link{
+color: rgb(74, 74, 236);
+cursor: pointer;
+}
+
+.link:hover{
+  text-decoration: underline;
+}

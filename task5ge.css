@@ -1,0 +1,32 @@
+p {
+  font-family: arial;
+  margin-top: 0px;
+  margin-bottom: 20px;
+  font-size: 18px;
+  }
+.free-code-one {
+  color:rgb(91, 84, 84);
+}
+.contant{
+  font-size: 18px;
+  width: 600px;
+}
+.link{
+ color: rgb(36, 149, 254);
+}
+.number{
+  font-size: 26px;
+  font-weight: bold;
+}
+.currancy{
+  color: rgb(91, 84, 84);
+}
+.number-1{
+  color: green;
+}
+.after-hours{
+  color: rgb(91, 84, 84);
+}
+.number-3{
+  color: red;
+}
